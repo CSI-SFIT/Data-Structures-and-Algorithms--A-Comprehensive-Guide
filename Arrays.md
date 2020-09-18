@@ -4,7 +4,7 @@
 
 An array is a structure of fixed-size, which can hold items of the same data type. It can be an array of integers, an array of floating-point numbers, an array of strings or even an array of arrays (such as 2-dimensional arrays). Arrays are indexed, meaning that random access is possible.
 
-<img src="Arrays.png" alt="Arrays">
+<img src="Arrays.png" alt="Arrays Image">
 
 ## Array Operations
 
@@ -48,6 +48,7 @@ There are many more like Jump Search, Interpolation Search, Exponential Search, 
 Links to Searching Algorithms:
 
 - [GeeksForGeeks Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
+
 - [TutorialsPoint Page for Searching Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/)
 
 To learn more about Arrays visit the sites below:
@@ -67,3 +68,11 @@ Some Courses on Arrays are:
 - [Search for MOOCs on Arrays](https://www.mooc-list.com/tags/arrays)
 
 - [Java Arrays - Telusko](https://youtu.be/fuDNAKStpq0)
+
+- [Complete Arrays Path - Abdul Bari](https://youtu.be/WlHUobpwxo8)
+
+- [Arrays - CodeWithHarry](https://youtu.be/p5TDnxAYAZY)
+
+- [Arrays - CS Dojo](https://youtu.be/pmN9ExDf3yQ)
+
+- [Arrays in Processing - CodingTrain(Follow Suggested Videos for more)](https://youtu.be/NptnmWvkbTw)

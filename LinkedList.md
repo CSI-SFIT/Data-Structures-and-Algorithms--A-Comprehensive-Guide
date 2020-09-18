@@ -6,7 +6,7 @@ Linked list elements are not stored at contiguous location; the elements are lin
 
 Each node of a list is made up of two items - the data and a reference to the next node. The last node has a reference to null. The entry point into a linked list is called the head of the list. It should be noted that head is not a separate node, but the reference to the first node. If the list is empty then the head is a null reference.
 
-<img src="LinkedList.png">
+<img src="LinkedList.png" alt="Linked List Image">
 
 ## Types of Linked Lists
 
@@ -60,3 +60,13 @@ You can find the Algorithms for each Operation and Many more types of Linked Lis
 - [GeeksForGeeks Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 - [TutorialsPoint Linked List](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm)
 - [Liked List - StudyTonight](https://www.studytonight.com/data-structures/introduction-to-linked-list)
+<br>
+<br>
+- [Linked List HackerRank Course](https://www.youtube.com/watch?v=njTh_OwMljA)
+- [Linked List Introduction CS Dojo](https://youtu.be/WwfhLC16bis)
+- [Linked List - Abdul Bari(After this follow the suggested videos)](https://youtu.be/5C6JSsmbBoo)
+- [Linked Lists in C](https://youtu.be/eGnlKPCkAFY)
+- [Linked Lists Course - MU Syllabus](https://www.youtube.com/playlist?list=PLCbbVSS5VBbvh_L7DfZPN7XPXNJLq8vkE)
+- [Linked Lists - CodeWhoop](https://www.youtube.com/playlist?list=PLZgR0futJAU3fCGJn2UvRWbkLqmEje_cd)
+- [Linked Lists Introduction - CodeWithHarry](https://youtu.be/TWMCMvfEAv4)
+- [Linked List in Python - CodeBasics](https://youtu.be/qp8u-frRAnU)
