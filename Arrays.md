@@ -46,4 +46,4 @@ there are many more like Jump Search, Interpolation Search, Exponential Search, 
 Links to Searching Algorithms:
 
 - [GeeksForGeeks Searchinhg Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
--
+- [TutorialsPoint Page for Searching Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/)
