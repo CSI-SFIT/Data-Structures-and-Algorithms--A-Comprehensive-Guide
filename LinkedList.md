@@ -21,16 +21,16 @@ Each node of a list is made up of two items - the data and a reference to the ne
 1) Traversal
 
 2) Insert
-- Insert at start
-- Insert at Beginning
-- Insert After an element
-- Insert Before an element
+  - Insert at start
+  - Insert at Beginning
+  - Insert After an element
+  - Insert Before an element
 
 3) Delete : (Algorithms are listed in Resources Section)
-- Delete at start
-- Delete at Beginning
-- Delete After an element
-- Delete Before an element
+  - Delete at start
+  - Delete at Beginning
+  - Delete After an element
+  - Delete Before an element
 
 4) Search for element : Similar algos as that for Arrays
 
