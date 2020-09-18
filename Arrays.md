@@ -41,9 +41,29 @@ There are many Searching algorithms famous in the Coding community. The most pro
 - Linear Search
 - Binary Search
 
-there are many more like Jump Search, Interpolation Search, Exponential Search, etc.
+There are many more like Jump Search, Interpolation Search, Exponential Search, etc.
+
+## Resources
 
 Links to Searching Algorithms:
 
-- [GeeksForGeeks Searchinhg Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
+- [GeeksForGeeks Searching Algorithms](https://www.geeksforgeeks.org/searching-algorithms/)
 - [TutorialsPoint Page for Searching Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/)
+
+To learn more about Arrays visit the sites below:
+
+- [Oracle Tutorial for Arrays in Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+
+- [Arrays in C - TutorialsPoint](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
+
+- [Arrays in JavaScript - W3Schools](https://www.w3schools.com/js/js_arrays.asp)
+
+- [Arrays Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
+
+Some Courses on Arrays are:
+
+- [Arrays Course on CodeAcademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-arrays)
+
+- [Search for MOOCs on Arrays](https://www.mooc-list.com/tags/arrays)
+
+- [Java Arrays - Telusko](https://youtu.be/fuDNAKStpq0)
