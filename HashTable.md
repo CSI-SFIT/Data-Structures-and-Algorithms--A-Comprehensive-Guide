@@ -39,7 +39,7 @@ From the last two examples given above, we can see that collision can arise when
 - [Hash Tabels - Educative](https://www.educative.io/edpresso/what-is-a-hash-table)
 - [Hash Tables - Programiz](https://www.programiz.com/dsa/hash-table)
 <br><br>
--[Hashing and Hash Tables - SaurabhSchool](https://www.youtube.com/playlist?list=PLTZbNwgO5ebqw1v0ODk8cPLW9dQ99Te8f)
+- [Hashing and Hash Tables - SaurabhSchool](https://www.youtube.com/playlist?list=PLTZbNwgO5ebqw1v0ODk8cPLW9dQ99Te8f)
 - [Hashing And Hash Tables - GeeksForGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySGwXaessYMemAnITqlZdZVE)
 - [Hash Tables - Abdul Bari](https://www.youtube.com/watch?v=mFY0J5W8Udk)
 - [Hash Tables - Hackerrank](https://www.youtube.com/watch?v=shs0KM3wKv8)
