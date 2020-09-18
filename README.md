@@ -11,7 +11,7 @@
   7. [Heaps](Heap.md)
   8. [Graphs](Graph.md)
 
-If you are not interested in going down the traditional route of learning each type, There are courses that cover entire all Data Structures:
+If you are not interested in going down the traditional route of learning each type, There are courses that cover entirity of Data Structures:
 
 - [All Data Structures 8 hour course by William Fiset](https://youtu.be/RBSGKlAvoiM)
 - [In Depth Algorithms Playlist by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
