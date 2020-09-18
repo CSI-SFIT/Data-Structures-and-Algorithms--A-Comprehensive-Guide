@@ -59,9 +59,9 @@ You can find the Algorithms for each Operation and Many more types of Linked Lis
 
 - [GeeksForGeeks Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 - [TutorialsPoint Linked List](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm)
-- [Liked List - StudyTonight](https://www.studytonight.com/data-structures/introduction-to-linked-list)
-<br>
-<br>
+- [Linked List - StudyTonight](https://www.studytonight.com/data-structures/introduction-to-linked-list)
+
+
 - [Linked List HackerRank Course](https://www.youtube.com/watch?v=njTh_OwMljA)
 - [Linked List Introduction CS Dojo](https://youtu.be/WwfhLC16bis)
 - [Linked List - Abdul Bari(After this follow the suggested videos)](https://youtu.be/5C6JSsmbBoo)
