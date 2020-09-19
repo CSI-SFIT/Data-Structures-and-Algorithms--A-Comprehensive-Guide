@@ -51,3 +51,7 @@ A Queue is a linear structure which follows a particular order in which the oper
 - [Stacks, Queues And Priority Queues](https://drive.google.com/file/d/0B4AmxgIIrh_SUjN2VXE0NU5Benc/view)
 - [Stacks And Queues - Princeton](https://introcs.cs.princeton.edu/java/43stack/)
 - [Stacks And Queues In Python](https://stackabuse.com/stacks-and-queues-in-python/)
+
+## Popular Practice Problems
+
+- [Problem 1 - LeetCode](https://leetcode.com/problems/design-circular-deque/)

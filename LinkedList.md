@@ -73,3 +73,8 @@ You can find the Algorithms for each Operation and Many more types of Linked Lis
 - [Linked Lists In C++ - BitDegree](https://www.bitdegree.org/learn/linked-list-c-plus-plus)
 - [Linked Lists in Java](https://beginnersbook.com/2013/12/linkedlist-in-java-with-example/)
 - [Linked  In Python - TutorialsPoint](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
+
+## Popular Practice Problems
+
+- [Problem 1 - LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Problem 2 - LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/)

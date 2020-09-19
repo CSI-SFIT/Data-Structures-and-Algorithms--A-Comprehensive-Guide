@@ -64,3 +64,9 @@ There are other operations too like peek, etc. but they use the same logic as Pu
 - [Stacks, Queues And Priority Queues](https://drive.google.com/file/d/0B4AmxgIIrh_SUjN2VXE0NU5Benc/view)
 - [Stacks And Queues - Princeton](https://introcs.cs.princeton.edu/java/43stack/)
 - [Stacks And Queues In Python](https://stackabuse.com/stacks-and-queues-in-python/)
+
+## Popular Practice Problems
+
+- [Problem 1 - CodeChef](https://www.codechef.com/problems/MULHANOI)
+- [Problem 2 - CodeChef](https://www.codechef.com/LRNDSA02/problems/ZCO12001)
+- [Problem 3 - LeetCode](https://leetcode.com/problems/simplify-path/)
