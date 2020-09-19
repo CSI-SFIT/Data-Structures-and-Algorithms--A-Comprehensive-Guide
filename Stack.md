@@ -61,3 +61,6 @@ There are other operations too like peek, etc. but they use the same logic as Pu
 - [Introduction to Stacks - Abdul Bari(Follow Suggested Videos for more)](https://youtu.be/HXE1arB8NNs)
 - [Stacks - CodeWithHarry](https://youtu.be/-n2rVJE4vto)  
 - [Stacks - Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
+- [Stacks, Queues And Priority Queues](https://drive.google.com/file/d/0B4AmxgIIrh_SUjN2VXE0NU5Benc/view)
+- [Stacks And Queues - Princeton](https://introcs.cs.princeton.edu/java/43stack/)
+- [Stacks And Queues In Python](https://stackabuse.com/stacks-and-queues-in-python/)

@@ -48,3 +48,6 @@ A Queue is a linear structure which follows a particular order in which the oper
 - [Queue - Esucation4You](https://www.youtube.com/watch?v=HI34Oytjjb4)
 - [Queue - Abdul Bari(Follow Suggested Videos for more)](https://www.youtube.com/watch?v=nNnGh0N9P48)
 - [Queues - CodeWithHarry](https://www.youtube.com/watch?v=JlZX7xIBjl0)
+- [Stacks, Queues And Priority Queues](https://drive.google.com/file/d/0B4AmxgIIrh_SUjN2VXE0NU5Benc/view)
+- [Stacks And Queues - Princeton](https://introcs.cs.princeton.edu/java/43stack/)
+- [Stacks And Queues In Python](https://stackabuse.com/stacks-and-queues-in-python/)

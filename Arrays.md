@@ -76,3 +76,22 @@ Some Courses on Arrays are:
 - [Arrays - CS Dojo](https://youtu.be/pmN9ExDf3yQ)
 
 - [Arrays in Processing - CodingTrain(Follow Suggested Videos for more)](https://youtu.be/NptnmWvkbTw)
+
+
+
+
+- [Arrays In C++ - BitDegree](https://www.bitdegree.org/learn/c-plus-plus-vector)
+
+- [Vectors in C++ - ReelLearning](https://youtu.be/SGyutdso6_c)
+
+- [Java Array List With Examples - HowToDOInJava](https://howtodoinjava.com/java-arraylist/)
+
+- [Lists In Python - W3Schools](https://www.w3schools.com/python/python_lists.asp)
+
+## Popular Practice Problems
+
+- [Problem 1 - CodeChef](https://www.codechef.com/LRNDSA01/problems/FLOW007)
+- [Problem 2 - CodeChef](https://www.codechef.com/LRNDSA01/problems/ZCO14003)
+- [Problem 3 - CodeChef](https://www.codechef.com/LRNDSA05/problems/BINXOR)
+- [Problem 4 - LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Problem 5 - LeetCode](https://leetcode.com/problems/container-with-most-water/)

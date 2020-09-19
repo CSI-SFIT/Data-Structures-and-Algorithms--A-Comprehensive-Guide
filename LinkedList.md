@@ -70,3 +70,6 @@ You can find the Algorithms for each Operation and Many more types of Linked Lis
 - [Linked Lists - CodeWhoop](https://www.youtube.com/playlist?list=PLZgR0futJAU3fCGJn2UvRWbkLqmEje_cd)
 - [Linked Lists Introduction - CodeWithHarry](https://youtu.be/TWMCMvfEAv4)
 - [Linked List in Python - CodeBasics](https://youtu.be/qp8u-frRAnU)
+- [Linked Lists In C++ - BitDegree](https://www.bitdegree.org/learn/linked-list-c-plus-plus)
+- [Linked Lists in Java](https://beginnersbook.com/2013/12/linkedlist-in-java-with-example/)
+- [Linked  In Python - TutorialsPoint](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
