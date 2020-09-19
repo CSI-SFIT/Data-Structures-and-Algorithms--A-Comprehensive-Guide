@@ -30,6 +30,13 @@ After learning all this to gain an edge over others, you need to practice and ke
 - [CodeWars](https://www.codewars.com/)
 - [CodinGame(A fun way to code with games)](https://www.codingame.com/start)
 
+## How to Contribute
+
+1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/Data-Structures-And-Algorithms---A-Comprehensive-Guide -b name_for_new_branch`.
+2. Make changes and test.
+3. Submit Pull Request with comprehensive description of changes.
+
+
 ## Contributors
 
 <!-- prettier-ignore-start -->
@@ -40,3 +47,11 @@ After learning all this to gain an edge over others, you need to practice and ke
   <td align="center"><a href="https://github.com/Varun-Patkar"><img src="https://avatars.githubusercontent.com/ekta18" width="100px;" alt="Ekta Masrani Image"/><br /><sub><b>Ekta Masrani</b></sub></a><br /></a></td>
   </tr>
 </table>
+
+<br>
+<p align="center">
+  <a href="https://www.csi.sfit.ac.in/">
+    <img src="https://www.csi.sfit.ac.in/logo.png"
+         alt="Sponsored by Evil Martians" width="300" height="200">
+  </a>
+</p>
