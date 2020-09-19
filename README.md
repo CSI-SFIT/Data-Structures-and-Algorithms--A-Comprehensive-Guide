@@ -1,3 +1,4 @@
+<img src="Banner.jpeg" alt="Banner Image">
 <center><h1>Data Structures And Algorithms - A Comprehensive Guide</h1></center>
 
 ## Table of Contents
