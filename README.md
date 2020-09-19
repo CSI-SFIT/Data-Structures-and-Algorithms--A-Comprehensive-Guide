@@ -31,6 +31,11 @@ After learning all this to gain an edge over others, you need to practice and ke
 
 ## Contributors
 
-<!---
-Please add the contributors here
--->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+  <td align="center"><a href="https://github.com/Varun-Patkar"><img src="https://avatars.githubusercontent.com/Varun-Patkar" width="100px;" alt="Varun Patkar Image"/><br /><sub><b>Varun A Patkar</b></sub></a><br /></a></td>
+  <td align="center"><a href="https://github.com/Varun-Patkar"><img src="https://avatars.githubusercontent.com/ekta18" width="100px;" alt="Ekta Masrani Image"/><br /><sub><b>Ekta Masrani</b></sub></a><br /></a></td>
+  </tr>
+</table>
