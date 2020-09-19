@@ -25,6 +25,8 @@
   8. [Graphs](Graph.md)
 
 [Also Check Out some Popular Algorithms And Practice Problems](Algorithm.md)
+<br>
+**Make sure you go through each of these in detail, the explanation is also provided in each individual link!**
 
 ### <a id="Unconventional Method">Unconventional Method</a>
 *If you are not interested in going down the traditional route of learning each type, There are courses that cover entirety of Data Structures:*
