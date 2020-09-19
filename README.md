@@ -6,7 +6,7 @@
 <p align="center">
 <b>A Comprehensive Guide on Data Structures & Algorithms<b>
 </p>
-
+---
 ## Table of Contents
 * <a href="Traditional Method">Traditional Method</a>
 * <a href="Unconventional Method">Unconventional Method</a>
@@ -25,7 +25,6 @@
 
 [Also Check Out some Popular Algorithms And Practice Problems](Algorithm.md)
 
----
 ### <a id="Unconventional Method">Unconventional Method</a>
 *If you are not interested in going down the traditional route of learning each type, There are courses that cover entirety of Data Structures:*
 
@@ -34,7 +33,7 @@
 - [Data Structures And Algorithms course for GATE](https://www.youtube.com/playlist?list=PLEVDNf7p-wYyh712BgmW9UGrAc88bl3OF)
 - [Stanford Algorithms Course](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms MIT Course](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
----
+
 ### <a id="Test Your Knowledge!">Test Your Knowledge!</a>
 *After learning all this to gain an edge over others, you need to practice and keep practicing. There are some websites to learn and practice daily:*
 
