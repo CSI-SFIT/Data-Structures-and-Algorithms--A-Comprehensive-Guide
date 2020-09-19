@@ -24,7 +24,7 @@
   7. [Heaps](Comprehensive_Guides/Heap.md)
   8. [Graphs](Comprehensive_Guides/Graph.md)
 
-[Also Check Out some Popular Algorithms And Practice Problems](Algorithm.md)
+[Also Check Out some Popular Algorithms And Practice Problems](Comprehensive_Guides/Algorithm.md)
 <br>
 **! Make sure you go through each of these in detail, the explanation is also provided in each individual link!**
 
