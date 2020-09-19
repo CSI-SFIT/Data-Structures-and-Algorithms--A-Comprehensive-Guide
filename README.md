@@ -8,12 +8,12 @@
 </p>
 
 ## Table of Contents
-* <a href="Traditional Method">Traditional Method</a>
-* <a href="Unconventional Method">Unconventional Method</a>
-* <a href="Test Your Knowledge!">Test Your Knowledge!</a>
+* <a href="#Traditional Method">Traditional Method</a>
+* <a href="#Unconventional Method">Unconventional Method</a>
+* <a href="#Test Your Knowledge!">Test Your Knowledge!</a>
 
 ---
-### <a id="Traditional Method">Traditional Method</a>
+### <a name="Traditional Method">Traditional Method</a>
 *The solid easy route to go down the data structures and algorithms hill, risk free and widely used, follow through:*
   1. [Arrays](Comprehensive_Guides/Arrays.md)
   2. [Linked List](Comprehensive_Guides/LinkedList.md)
@@ -28,7 +28,7 @@
 <br>
 **! Make sure you go through each of these in detail, the explanation is also provided in each individual link!**
 
-### <a id="Unconventional Method">Unconventional Method</a>
+### <a name="Unconventional Method">Unconventional Method</a>
 *If you are not interested in going down the traditional route of learning each type, There are courses that cover entirety of Data Structures:*
 
 - [All Data Structures 8 hour course by William Fiset](https://youtu.be/RBSGKlAvoiM)
@@ -37,7 +37,7 @@
 - [Stanford Algorithms Course](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
 - [Algorithms MIT Course](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
-### <a id="Test Your Knowledge!">Test Your Knowledge!</a>
+### <a name="Test Your Knowledge!">Test Your Knowledge!</a>
 *After learning all this to gain an edge over others, you need to practice and keep practicing. There are some websites to learn and practice daily:*
 
 - [Leet Code](https://leetcode.com/)
