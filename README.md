@@ -6,12 +6,12 @@
 <p align="center">
 <b>A Comprehensive Guide on Data Structures & Algorithms<b>
 </p>
----
+
 ## Table of Contents
 * <a href="Traditional Method">Traditional Method</a>
 * <a href="Unconventional Method">Unconventional Method</a>
 * <a href="Test Your Knowledge!">Test Your Knowledge!</a>
----
+
 ### <a id="Traditional Method">Traditional Method</a>
 *The solid easy route to go down the data structures and algorithms hill, risk free and widely used, follow through:*
   1. [Arrays](Arrays.md)
