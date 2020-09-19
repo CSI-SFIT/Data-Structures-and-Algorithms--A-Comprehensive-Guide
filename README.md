@@ -43,7 +43,6 @@
 - [Hackerrank](https://www.hackerrank.com/)
 - [CodeWars](https://www.codewars.com/)
 - [CodinGame (A fun way to code with games)](https://www.codingame.com/start)
-<br>
 ---
 
 **How to Contribute**
