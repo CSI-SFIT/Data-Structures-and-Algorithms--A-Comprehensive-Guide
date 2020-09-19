@@ -5,8 +5,8 @@
 A Heap is a special case of a binary tree where the parent nodes are compared to their children with their values and are arranged accordingly.
 Let us see how we can represent heaps. Heaps can be represented using trees as well as arrays. Figures 7 and 8 show how we can represent a binary heap using a binary tree and an array.
 
-<img src="Heap 1.png" alt="Heap Image 1">
-<img src="Heap 2.png" alt="Heap Image 2">  
+<img src="../Images/Heap 1.png" alt="Heap Image 1">
+<img src="../Images/Heap 2.png" alt="Heap Image 2">  
 
 ## Types of Heaps
 

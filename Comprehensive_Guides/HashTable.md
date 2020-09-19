@@ -14,7 +14,7 @@ In direct accessing, a value with key k is stored in the slot k. Using the hash 
 - k: Key of which the hash value should be determined
 - m: Size of the hash table (number of slots available). A prime value that is not close to an exact power of 2 is a good choice for m.
 
-<img src="HashTable.png" alt="Hash Table Image">
+<img src="../Images/HashTable.png" alt="Hash Table Image">
 
 Consider the hash function h(k) = k % 20, where the size of the hash table is 20. Given a set of keys, we want to calculate the hash value of each to determine the index where it should go in the hash table. Consider we have the following keys, the hash and the hash table index.
 

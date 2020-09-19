@@ -4,7 +4,7 @@
 
 An array is a structure of fixed-size, which can hold items of the same data type. It can be an array of integers, an array of floating-point numbers, an array of strings or even an array of arrays (such as 2-dimensional arrays). Arrays are indexed, meaning that random access is possible.
 
-<img src="Arrays.png" alt="Arrays Image">
+<img src="../Images/Arrays.png" alt="Arrays Image">
 
 ## Array Operations
 

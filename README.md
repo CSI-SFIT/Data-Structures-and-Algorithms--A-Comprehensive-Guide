@@ -1,7 +1,7 @@
 
 # ⚡ Data Structures & Algorithms - A Comprehensive Guide
 
-<img src="Banner.jpeg" alt="Banner Image">
+<img src="Images/Banner.jpeg" alt="Banner Image">
 
 <p align="center">
 <b>A Comprehensive Guide on Data Structures & Algorithms<b>
@@ -15,14 +15,14 @@
 ---
 ### <a id="Traditional Method">Traditional Method</a>
 *The solid easy route to go down the data structures and algorithms hill, risk free and widely used, follow through:*
-  1. [Arrays](Arrays.md)
-  2. [Linked List](LinkedList.md)
-  3. [Stacks](Stack.md)
-  4. [Queues](Queue.md)
-  5. [Hash Tables](HashTable.md)
-  6. [Trees](Tree.md)
-  7. [Heaps](Heap.md)
-  8. [Graphs](Graph.md)
+  1. [Arrays](Comprehensive_Guides/Arrays.md)
+  2. [Linked List](Comprehensive_Guides/LinkedList.md)
+  3. [Stacks](Comprehensive_Guides/Stack.md)
+  4. [Queues](Comprehensive_Guides/Queue.md)
+  5. [Hash Tables](Comprehensive_Guides/HashTable.md)
+  6. [Trees](Comprehensive_Guides/Tree.md)
+  7. [Heaps](Comprehensive_Guides/Heap.md)
+  8. [Graphs](Comprehensive_Guides/Graph.md)
 
 [Also Check Out some Popular Algorithms And Practice Problems](Algorithm.md)
 <br>
