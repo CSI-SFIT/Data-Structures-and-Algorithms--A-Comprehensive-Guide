@@ -4,7 +4,7 @@
 <img src="Images/Banner.jpeg" alt="Banner Image">
 
 <p align="center">
-<b>A Comprehensive Guide on Data Structures & Algorithms<b>
+<b>A Comprehensive Guide on Data Structures & Algorithms</b>
 </p>
 
 ## Table of Contents
