@@ -73,7 +73,7 @@ Each tree has different algorithms for each operation. Check out the resources o
   - Postorder Traversal(LRV)
 
 2. Insertion
-3.Deletion
+3. Deletion
 
 ## Applications of Trees
 
