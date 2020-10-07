@@ -103,3 +103,69 @@ Suffix Tree : For quick pattern searching in a fixed text.
 - [Trees - Jenny Lectures](https://www.youtube.com/playlist?list=PL9LqbynX3r56pZA9Y1tx_ROnsNcshDAIJ)
 - [Trees - Abdul Bari](https://www.youtube.com/watch?v=EWCgpVUZaB0)
 - [Trees CodeBasics](https://www.youtube.com/watch?v=4r_XR9fUPhQ)
+
+## Special Algorithms and Practice Problems
+
+### Segment Tree :
+- Algorithms
+  - [Segment Tree - CPAlgorithms](https://cp-algorithms.com/data_structures/segment_tree.html)
+  - [Segment Tree - Rachit Jain](https://youtu.be/Ic7OO3Uw6J0)
+  - [Segment Tree - Tushar Roy](https://youtu.be/ZBHKZF5w4YU)
+- Practice Problems
+  - [Problem 1 - CodeForces](https://codeforces.com/contest/356/problem/A)
+  - [Problem 2 - CodeForces](https://codeforces.com/problemset/problem/895/E)
+  - [Problem 3 - SPOJ](http://www.spoj.com/problems/KQUERY/)
+  - [Problem 4 - CodeForces](https://codeforces.com/problemset/problem/1234/D)
+  - [Problem 5 - CodeForces](https://codeforces.com/contest/121/problem/E)
+  - [Problem 6 - OnlineJudge](https://oj.uz/problem/view/COCI17_deda)
+
+
+### Disjoint Set Union :
+- Algorithms
+  - [Disjoint Set Union - CPAlgorithms](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+  - [Disjoint Set Union - GeeksForGeeks](https://www.geeksforgeeks.org/union-find/)
+  - [Disjoint Set Union - Abdul Bari](https://youtu.be/wU6udHRIkcc)
+  - [Disjoint Set Union - Tushar Roy](https://youtu.be/ID00PMy0-vE)
+- Practice Problems
+  - [Problem 1 - CodeChef](https://www.codechef.com/problems/GALACTIK)
+  - [Problem 2 - CodeChef](https://www.codechef.com/problems/DISHOWN)
+  - [Problem 3 - CodeForces](http://codeforces.com/problemset/problem/547/B)
+  - [Problem 4 - CodeChef](https://www.codechef.com/problems/JABO)
+  - [Problem 5 - CodeChef](https://www.codechef.com/problems/PARITREE)
+  - [Problem 6 - CodeForces](http://codeforces.com/contest/151/problem/D)
+  - [Problem 7 - CodeChef](https://www.codechef.com/problems/MAGICSTR)
+  - [Problem 8 - CodeChef](https://www.codechef.com/problems/BIGOF01)
+  - [Problem 9 - CodeChef](https://www.codechef.com/problems/FIRESC)
+
+
+### Fenwick Tree :
+- Algorithms
+  - [Fenwick Tree - CPAlgorithms](https://cp-algorithms.com/data_structures/fenwick.html)
+  - [Fenwick Tree - VisualGo](https://visualgo.net/en/fenwicktree)
+  - [Fenwick Tree - Tushar Roy](https://youtu.be/CWDQJGaN1gY)
+  - [Fenwick Tree - TakeUForward](https://youtu.be/9uaXG62Y8Uw)
+- Practice Problems
+  - [Problem 1 - OnlineJudge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3238)
+  - [Problem 2 - CodeForces](http://codeforces.com/contest/777/problem/E)
+  - [Problem 3 - SPOJ](http://www.spoj.com/problems/CTRICK/)
+  - [Problem 4 - SPOJ](http://www.spoj.com/problems/DQUERY/)
+  - [Problem 5 - CodeForces](http://codeforces.com/contest/669/problem/E)
+  - [Problem 6 - SPOJ](http://www.spoj.com/problems/YODANESS/)
+  - [Problem 7 - SPOJ](http://www.spoj.com/problems/SUMSUM/)
+  - [Problem 8 - SPOJ](http://www.spoj.com/problems/ADACABAA/)
+
+
+### Sqrt Decomposition :
+- Algorithms
+  - [Sqrt Decomposition - CPAlgorithms](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
+  - [Sqrt Decomposition - GeeksForGeeks](https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/)
+  - [Sqrt Decomposition - Gaurav Sen](https://youtu.be/gWbDocYhwDA)
+  - [Sqrt Decomposition - CodeNCode](https://youtu.be/o7278rPg_9I)
+
+- Practice Problems
+  - [Problem 1 - SPOJ](http://www.spoj.com/problems/GIVEAWAY/)
+  - [Problem 2 - OnlineJudge](https://uva.onlinejudge.org/-index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3141)
+  - [Problem 3 - CodeForces](http://codeforces.com/contest/786/problem/C)
+  - [Problem 4 - CodeForces](http://codeforces.com/contest/840/problem/D)
+  - [Problem 5 - SPOJ](https://www.spoj.com/problems/DQUERY)
+  - [Problem 6 - CodeForces](https://codeforces.com/problemset/problem/617/E)

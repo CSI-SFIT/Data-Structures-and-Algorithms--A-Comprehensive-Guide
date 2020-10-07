@@ -144,3 +144,80 @@
   - [Problem 2 - CodeChef](https://www.codechef.com/problems/CF220)
   - [Problem 3 - CodeForces](https://codeforces.com/contest/1409/problem/B)
   - [Problem 4 - LeetCode](https://leetcode.com/problems/perfect-squares/)
+
+## Sieve Of Eratosthenes
+- Algorithms
+  - [Sieve Of Eratosthenes - CP Algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+  - [Sieve Of Eratosthenes - MyCodeSchool](https://youtu.be/eKp56OLhoQs)
+  - [Sieve Of Eratosthenes - Region 10 ESC](https://youtu.be/V08g_lkKj6Q)
+- Practice Problems
+  - [Problem 1 - SPOJ](http://www.spoj.com/problems/TDPRIMES/)
+  - [Problem 2 - CodeForces](http://codeforces.com/contest/26/problem/A)
+  - [Problem 3 - SPOJ](http://www.spoj.com/problems/HS08PAUL/)
+  - [Problem 4 - SPOJ](http://www.spoj.com/problems/DCEPC505/)
+  - [Problem 5 - CodeForces](https://codeforces.com/problemset/problem/17/A)
+
+## Combination Generation
+- Algorithms
+  - [Combination Generation - CP Algorithms](https://cp-algorithms.com/combinatorics/generating_combinations.html)
+  - [Combination Generation - PyBear](https://youtu.be/LF4Z7Trn7yE)
+- Practice Problems
+  - [Problem 1 - TutorialHorizon](https://algorithms.tutorialhorizon.com/print-all-combinations-of-subset-of-size-k-from-given-array/)
+  - [Problem 2 - LeetCode](https://leetcode.com/problems/combinations/description/)
+
+
+
+## Rabin-Karp Algorithm
+- Algorithms
+  - [Rabin-Karp Algorithm - CP Algorithms](https://cp-algorithms.com/string/rabin-karp.html)
+  - [Rabin-Karp Algorithm - GeeksForGeeks](https://youtu.be/oxd_Z1osgCk)
+  - [Rabin-Karp Algorithm - Abdul Bari](https://youtu.be/qQ8vS2btsxI)
+- Practice Problems
+  - [Problem 1 - SPOJ](http://www.spoj.com/problems/NAJPF/)
+  - [Problem 2 - CodeForces](http://codeforces.com/problemset/problem/271/D)
+  - [Problem 3 - CodeForces](https://codeforces.com/problemset/problem/835/D)
+
+
+
+## Adv. DS (Trees, Graph, Pair, Map, Set) :
+- Algorithms
+  - [Adv. DS - MyCodeSchool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+
+## Greedy Approach :
+- Algorithms
+  - [Greedy Approach - GeeksForGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySESatj68JKWHRVhoJ1BxtLW)
+
+- Practice Problems
+  - [Problem 1 - Codechef](https://www.codechef.com/problems/TACHSTCK)
+  - [Problem 2 - Codechef](https://www.codechef.com/problems/CIELRCPT)
+  - [Problem 3 - Codechef](https://www.codechef.com/problems/MAXDIFF)
+  - [Problem 4 - SPOJ](http://www.spoj.com/problems/BAISED/)
+  - [Problem 5 - SPOJ](http://www.spoj.com/problems/GCJ101BB/)
+  - [Problem 6 - SPOJ](http://www.spoj.com/problems/ARRANGE/)
+  - [Problem 7 - Codechef](https://www.codechef.com/problems/TADELIVE)
+
+
+## Dynamic Programming :
+- Algorithms
+  - [Dynamic Programming - FreeCodeCamp](https://www.freecodecamp.org/news/demystifying-dynamic-programming-3efafb8d4296/)
+  - [Dynamic Programming - TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+  - [Dynamic Programming - GeeksForGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+  - [Dynamic Programming - TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)
+  - [Dynamic Programming - CS Dojo](https://youtu.be/vYquumk4nWw)
+  - [Dynamic Programming - Aditya Verma](https://youtu.be/nqowUJzG-iM)
+  - [Dynamic Programming - GeeksForGeeksYT](https://www.youtube.com/playlist?list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+
+- Practice Problems
+  - [Problem 1 - Codechef](https://www.codechef.com/problems/ALTARAY)
+  - [Problem 2 - CodeForces](https://codeforces.com/problemset/problem/711/C)
+  - [Problem 3- SPOJ](https://www.spoj.com/problems/MDOLLS/)
+  - [Problem 4 - Codechef](https://www.codechef.com/problems/GRID)
+  - [Problem 5 - Codechef](https://www.codechef.com/problems/DBOY)
+  - [Problem 6 - SPOJ](https://www.spoj.com/problems/MSTICK/)
+  - [Problem 7 - Codechef](https://www.codechef.com/problems/DELISH)
+  - [Problem 8 - SPOJ](https://www.spoj.com/problems/MIXTURES/)
+  - [Problem 9 - CodeForces](https://codeforces.com/problemset/problem/35/D)
+  - [Problem 10 - Codechef](https://www.codechef.com/problems/AMSGAME2)
+  - [Problem 11 - SPOJ](https://www.spoj.com/problems/AIBOHP/)
+  - [Problem 12 - SPOJ](https://www.spoj.com/problems/SAMER08D/)
+  - [Problem 13 - CodeForces](https://codeforces.com/problemset/problem/1061/C)

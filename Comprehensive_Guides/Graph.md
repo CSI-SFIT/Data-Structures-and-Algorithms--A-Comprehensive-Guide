@@ -66,3 +66,87 @@ There area lot of types for graphs. I'm listing the top ones. Check out the reso
 - [Graphs - Jenny's Lectures](https://www.youtube.com/watch?v=5hPfm_uqXmw)
 - [Graphs - GeeksForGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySEaZgcg7uRYJFBnYMLti-nh)
 - [Graphs - Abdul Bari](https://www.youtube.com/watch?v=pcKY4hjDrxk)
+
+## Special Algorithms and Practice Problems
+### BFS and DFS
+- Algorithms
+  - [BFS and DFS - HackerRank](https://youtu.be/zaBhtODEL0w)
+  - [BFS and DFS - Abdul Bari](https://youtu.be/pcKY4hjDrxk)
+
+- Practice Problems
+  - [Problem 1 - SPOJ](http://www.spoj.com/problems/PPATH/)
+  - [Problem 2 - CodeForces](https://codeforces.com/problemset/problem/910/A)
+  - [Problem 3 - Codechef](https://www.codechef.com/problems/FIRESC)
+  - [Problem 4 - SPOJ](http://www.spoj.com/problems/BUGLIFE/)
+  - [Problem 5 - SPOJ](http://www.spoj.com/problems/KFSTB/)
+  - [Problem 6 - CodeForces](https://codeforces.com/problemset/problem/500/A)
+  - [Problem 7 - CodeForces](https://codeforces.com/problemset/problem/727/A)
+  - [Problem 8 - SPOJ](http://www.spoj.com/problems/ELEVTRBL/)
+  - [Problem 9 - SPOJ](http://www.spoj.com/problems/ROBOTGRI/)
+  - [Problem 10 - CodeForces](https://codeforces.com/problemset/problem/129/B)
+  - [Problem 11 - SPOJ](http://www.spoj.com/problems/LABYR1/)
+  - [Problem 12 - SPOJ](http://www.spoj.com/problems/QUEEN/)
+
+
+### DFS
+- Algorithms
+  - [DFS - CP Algorithms](https://cp-algorithms.com/graph/depth-first-search.html)
+  - [DFS -
+Sundeep Saradhi Kanthety](https://youtu.be/xwlRWdAHMBg)
+  - [DFS - Gate Smashers](https://youtu.be/f8luGFRtshY)
+
+### BFS
+- Algorithms
+  - [BFS - CP Algorithms](https://cp-algorithms.com/graph/breadth-first-search.html)
+  - [BFS - Sundeep Saradhi Kanthety](https://youtu.be/cMELxr5hKYU)
+  - [BFS - Gate Smashers](https://youtu.be/qul0f79gxGs)
+
+
+### Kruskal's Algorithm to find Minimum Spanning Tree
+- Algorithms
+  - [Kruskal's Algorithm - CP Algorithms](https://cp-algorithms.com/graph/mst_kruskal.html)
+  - [Kruskal's Algorithm - Abdul Bari](https://youtu.be/4ZlRH0eK-qQ)
+  - [Kruskal's Algorithm - Gate Smashers](https://youtu.be/huQojf2tevI)
+
+- Practice Problems
+  - [Problem 1 - SPOJ](https://www.spoj.com/problems/MST/)
+  - [Problem 2 - CodeChef](https://www.codechef.com/problems/MSTQS)
+  - [Problem 3 - SPOJ](http://www.spoj.com/problems/NITTROAD/)
+  - [Problem 4 - CodeChef](https://www.codechef.com/problems/GALACTIK)
+  - [Problem 5 - SPOJ](http://www.spoj.com/problems/KOICOST/)
+  - [Problem 6 - SPOJ](http://www.spoj.com/problems/CSTREET/)
+  - [Problem 7 - SPOJ](http://www.spoj.com/problems/BLINNET/)
+  - [Problem 8 - CodeChef](https://www.codechef.com/problems/GOOGOL03)
+  - [Problem 9 - SPOJ](http://www.spoj.com/problems/HIGHWAYS/)
+  - [Problem 10- SPOJ](http://www.spoj.com/problems/IITWPC4I/)
+
+
+### Dijkstra's Algorithm(Pathfinding in Graph)
+- Algorithms
+  - [Dijkstra's Algorithm - CP Algorithms](https://cp-algorithms.com/graph/dijkstra.html)
+  - [Dijkstra's Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+  - [Dijkstra's Algorithm - Programiz](https://www.programiz.com/dsa/dijkstra-algorithm)
+  - [Dijkstra's Algorithm - Abdul Bari](https://youtu.be/XB4MIexjvY0)
+  - [Dijkstra's Algorithm - Computer Science](https://youtu.be/pVfj6mxhdMw)
+
+- Practice Problems
+  - [Problem 1 - CodeChef](https://www.codechef.com/problems/HW3G)
+  - [Problem 2 - CodeForces](https://codeforces.com/contest/715/problem/B)
+  - [Problem 3 - CodeChef](https://www.codechef.com/problems/STRGRA)
+  - [Problem 4 - SPOJ](https://www.spoj.com/problems/EZDIJKST/)
+  - [Problem 5 - CodeChef](https://www.codechef.com/problems/INLO33)
+  - [Problem 6 - CodeForces](https://codeforces.com/contest/59/problem/E)
+  - [Problem 7 - CodeChef](https://www.codechef.com/problems/KNGPRB)
+  - [Problem 8 - CodeChef](https://www.codechef.com/problems/PAIRCLST)
+  - [Problem 9 - CodeForces](https://codeforces.com/contest/449/problem/B)
+  - [Problem 10 - CodeChef](https://www.codechef.com/problems/DIGJUMP)
+
+
+
+### Prim's Algorithm to find Minimum Spanning Tree
+- Algorithms
+  - [Prim's Algorithm - CP Algorithms](https://cp-algorithms.com/graph/mst_prim.html)
+  - [Prim's Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)
+  - [Prim's Algorithm - TutorialsPoint](https://www.tutorialspoint.com/data_structures_algorithms/prims_spanning_tree_algorithm.htm)
+  - [Prim's Algorithm - Jenny's Lectures](https://youtu.be/ZtZaR7EcI5Y)
+  - [Prim's Algorithm - GeeksForGeeksYT](https://youtu.be/eB61LXLZVqs)
