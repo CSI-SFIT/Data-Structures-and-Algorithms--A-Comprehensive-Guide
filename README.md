@@ -27,6 +27,9 @@
 [Also Check Out some Popular Algorithms And Practice Problems](Comprehensive_Guides/Algorithm.md)
 <br>
 **! Make sure you go through each of these in detail, the explanation is also provided in each individual link!**
+<br>
+<br>
+[Also Check out the Sample Codes for each Data Structures](Codes/README.md)
 
 ### <a name="Unconventional Method">Unconventional Method</a>
 *If you are not interested in going down the traditional route of learning each type, There are courses that cover entirety of Data Structures:*
